@@ -8,9 +8,9 @@ its jeelan
 its rahith
 its harsha
 its harman
-kdeldjf
-fkfj
-fdkf
-hsfdk
 dkd
 devops practice
+
+i deleted some line and adding this new line
+new modify
+new entry
